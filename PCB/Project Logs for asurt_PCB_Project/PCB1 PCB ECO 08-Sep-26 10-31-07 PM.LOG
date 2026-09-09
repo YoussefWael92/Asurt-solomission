@@ -1,0 +1,10 @@
+Added Component: Designator=C18(CAPC1608X90)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CC0603KRX7R6BB104/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603KRX7R6BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CC0603KRX7R6BB104/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Member To Class: ClassName=asurt_sch1 Member=Component C18 CC0603KRX7R6BB104
