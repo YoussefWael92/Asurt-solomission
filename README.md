@@ -5,5 +5,6 @@ PCB schematic:
 PCB layout:
 <img width="1903" height="1005" alt="Screenshot 2026-09-09 033439" src="https://github.com/user-attachments/assets/cd4df68b-84c9-4332-804e-bdc7ced7977d" />
 Milestone1:
+
 https://github.com/user-attachments/assets/4d6e4435-591f-4b7c-8c03-08cb94e1485f
 
